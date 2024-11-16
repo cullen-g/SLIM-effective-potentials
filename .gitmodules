@@ -1,0 +1,3 @@
+[submodule "SIMION"]
+	path = SIMION
+	url = https://github.com/Lavton/trapsToolit/
